@@ -9,10 +9,19 @@ body{
 
 .quem-somos{
     background-color: antiquewhite;
-    <!-- color: white; -->
+    
 }
 
 .margin{
     padding-bottom: 50px;
     padding-top: 10px;
+}
+
+.parceiros{
+    background-color: cadetblue;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
