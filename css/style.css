@@ -9,9 +9,10 @@ body{
 
 .quem-somos{
     background-color: antiquewhite;
-    <!--color: white;-->
+    <!-- color: white; -->
 }
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
 }
